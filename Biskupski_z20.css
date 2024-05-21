@@ -1,0 +1,17 @@
+
+p#pogrubienie_nazwisko_ucznia {
+    font-weight: bold;
+    font-size: 32px;
+    color: blue;
+}
+
+
+p:first-child {
+    font-size: 20px;
+    color: green;
+}
+
+
+body {
+    background-color: silver;
+}
